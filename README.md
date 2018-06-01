@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ig-perez/skill-sample-nodejs-highlowgame.svg?branch=ContinuousIntegration)](https://travis-ci.org/ig-perez/skill-sample-nodejs-highlowgame)
+
 # Build An Alexa High Low Game Skill
 <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/quiz-game/header._TTH_.png" />
 
